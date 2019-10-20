@@ -1,4 +1,6 @@
+
 Project1 : Regression Models for multi-class prediction on Blog Feedback Dataset and Nursery Dataset
+    
     1a: implementation of  Moore-Penrose pseudo inverse 
     weightfile.txt will be destiantion to store output weights 
     Run file in this form : python 1a.py a trainﬁle.csv testﬁle.csv outputﬁle.txt weightﬁle.txt
@@ -34,7 +36,7 @@ Project 2: Neural Network for Binary and Multi class Image Classiﬁcation
     Toy: https://www.kaggle.com/carlolepelaars/toy-dataset
     CIFAR-10 Dataset: https://www.cs.toronto.edu/~kriz/cifar.html
   
-  Project 3: Image classification for CIFAR-10 and CIFAR-100 Dataset
+Project 3: Image classification for CIFAR-10 and CIFAR-100 Dataset
   
           Keras neural network architecture for the two datasets.
           Applying new and modified SOTA for CIFAR 100 and CIFAR 10
@@ -42,7 +44,7 @@ Project 2: Neural Network for Binary and Multi class Image Classiﬁcation
           run file as: python compete.py trainﬁle.csv testﬁle.csv output.txt 
           CIFAR 10 & CIFAR-100 Datset: https://www.cs.toronto.edu/~kriz/cifar.html
   
- Project 4: Decision Tree for Adult Dataset Classiﬁcation
+Project 4: Decision Tree for Adult Dataset Classiﬁcation
             
          A manual implementation of a pruned decision tree with various splitting methods.
          Input needs a train and a valid file thus datset is to be splitted by user. 
