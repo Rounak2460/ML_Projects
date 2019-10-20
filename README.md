@@ -1,16 +1,16 @@
 
 Project1 : Regression Models for multi-class prediction on Blog Feedback Dataset and Nursery Dataset
     
-    1a: implementation of  Moore-Penrose pseudo inverse 
+    a: implementation of  Moore-Penrose pseudo inverse 
     weightfile.txt will be destiantion to store output weights 
     Run file in this form : python 1a.py a trainﬁle.csv testﬁle.csv outputﬁle.txt weightﬁle.txt
     Dataset Link: https://archive.ics.uci.edu/ml/datasets/BlogFeedback
     
-    1b: Ridge regression implementation
+    b: Ridge regression implementation
     here regularization has set of regularization parameter values
     run file as: python linear.py b trainﬁle.csv testﬁle.csv regularization.txt outputﬁle.txt               weightﬁle.txt
     
-    1c. Feature engineered version with ridge regression
+    c. Feature engineered version with ridge regression
     run file as: python linear.py c trainﬁle.csv testﬁle.csv outputﬁle.txt 
     
     1d. Implementation of logistic regression:
